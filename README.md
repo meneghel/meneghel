@@ -20,7 +20,9 @@ Helping organizations modernize mission-critical applications, integrations and 
 
 ## Who Am I?
 
-For more than 28 years, I have been helping enterprises navigate complex technology transformations, modernize legacy environments and accelerate digital innovation.
+For more than 28 years, I have been helping enterprises modernize mission-critical environments, accelerate digital transformation initiatives and build scalable integration architectures.
+
+Throughout my career, I have supported organizations across financial services, manufacturing, telecommunications, healthcare and government sectors, helping thousands of professionals and hundreds of enterprise initiatives succeed through technology.
 
 My mission is simple:
 
@@ -91,6 +93,10 @@ Connecting business strategy, technology and execution to drive sustainable digi
 * DevOps
 * Platform Engineering
 
+## Strategic Technologies
+
+`Java` • `Jakarta EE` • `IBM WebSphere` • `IBM Liberty` • `IBM MQ` • `IBM App Connect Enterprise` • `IBM API Connect` • `IBM DataPower` • `Kubernetes` • `OpenShift` • `AWS` • `Artificial Intelligence` • `Enterprise RAG` • `MCP Servers` • `Agentic Systems`
+
 ---
 
 ## Founder
@@ -99,7 +105,7 @@ Connecting business strategy, technology and execution to drive sustainable digi
 
 The Digital Transformation Company
 
-Founded in 1997, M2M IT Solutions helps organizations accelerate digital transformation through modernization, integration, cloud and AI initiatives.
+Founded in 1997, M2M IT Solutions helps organizations modernize mission-critical applications, integrations and digital platforms through cloud-native architectures, Artificial Intelligence and enterprise transformation initiatives.
 
 ### Journey Xperience
 
@@ -109,7 +115,7 @@ Diagnose → Engage → Ideate → Implement → Optimize
 
 ### X-Intelligence
 
-An AI-Driven Modernization, Integration and Transformation Platform designed to accelerate enterprise transformation initiatives.
+An AI-Driven Modernization, Integration and Transformation Platform designed to help organizations accelerate assessments, architecture decisions, modernization roadmaps and enterprise transformation initiatives.
 
 ---
 
@@ -147,17 +153,6 @@ An AI-powered modernization platform designed to accelerate assessments, archite
 
 ## Speaking & Community
 
-* IBM Champion
-* IBM TechXchange Speaker
-* Enterprise Integration Advocate
-* Application Modernization Evangelist
-
-I actively share knowledge through bootcamps, workshops, conferences and technical communities.
-
----
-
-## Speaking & Community
-
 I actively contribute to the enterprise technology community through conferences, bootcamps, technical workshops and modernization initiatives.
 
 ### Highlights
@@ -180,6 +175,24 @@ I actively contribute to the enterprise technology community through conferences
 
 ---
 
+## Current Mission
+
+Helping enterprises modernize mission-critical environments without breaking what already works.
+
+Through M2M IT Solutions, Journey Xperience and X-Intelligence, I am focused on accelerating enterprise transformation using Artificial Intelligence, modernization strategies and cloud-native architectures.
+
+---
+
+## Purpose
+
+Connecting ideas that improve people and transform businesses.
+
+I believe that better people build better companies, and better companies help create a better world.
+
+Technology is simply the bridge that makes that transformation possible.
+
+---
+
 ## Philosophy
 
 Technology is not the destination.
@@ -187,6 +200,16 @@ Technology is not the destination.
 Technology is the bridge between ideas and transformation.
 
 The real value happens when innovation improves people's lives and helps organizations become a better version of themselves.
+
+---
+
+## Final Thought
+
+Technology alone does not transform businesses.
+
+People do.
+
+Technology simply accelerates what visionary people are capable of achieving.
 
 ---
 
