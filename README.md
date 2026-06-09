@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="/assets/github-banner.png" width="100%" alt="M2M IT Solutions">
+</p>
 # Marcello Meneghel
 ![IBM Champion](https://img.shields.io/badge/IBM-Champion-052FAD?style=for-the-badge)
 ![Founder](https://img.shields.io/badge/Founder-M2M_IT_Solutions-000000?style=for-the-badge)
