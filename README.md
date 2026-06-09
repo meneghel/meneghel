@@ -115,6 +115,26 @@ An AI-Driven Modernization, Integration and Transformation Platform designed to 
 
 ---
 
+## Featured Initiatives
+
+### AI Modernization Bootcamp
+
+A practical and enterprise-focused training program designed to help architects, developers and technology leaders accelerate modernization initiatives using Artificial Intelligence.
+
+### WebSphere to Liberty Modernization
+
+Proven strategies, tools and best practices to modernize traditional WebSphere environments and embrace cloud-native architectures.
+
+### Enterprise RAG Architectures
+
+Reference architectures and implementation patterns for enterprise-grade Retrieval Augmented Generation (RAG) platforms.
+
+### X-Intelligence
+
+An AI-powered modernization platform designed to accelerate assessments, architecture decisions and transformation roadmaps.
+
+---
+
 ## Speaking & Community
 
 * IBM Champion
@@ -123,6 +143,20 @@ An AI-Driven Modernization, Integration and Transformation Platform designed to 
 * Application Modernization Evangelist
 
 I actively share knowledge through bootcamps, workshops, conferences and technical communities.
+
+---
+
+## Speaking & Community
+
+I actively contribute to the enterprise technology community through conferences, bootcamps, technical workshops and modernization initiatives.
+
+### Highlights
+
+- IBM Champion
+- IBM TechXchange Speaker
+- Enterprise Integration Specialist
+- Application Modernization Advocate
+- Founder of M2M IT Solutions
 
 ---
 
