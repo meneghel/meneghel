@@ -1,11 +1,14 @@
 # Marcello Meneghel
+![IBM Champion](https://img.shields.io/badge/IBM-Champion-052FAD?style=for-the-badge)
+![Founder](https://img.shields.io/badge/Founder-M2M_IT_Solutions-000000?style=for-the-badge)
+![Enterprise Architect](https://img.shields.io/badge/Enterprise-Architect-0A7E07?style=for-the-badge)
+![Application Modernization](https://img.shields.io/badge/Application-Modernization-E67E22?style=for-the-badge)
+![Enterprise Integration](https://img.shields.io/badge/Enterprise-Integration-C0392B?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial-Intelligence-8E44AD?style=for-the-badge)
 
-![IBM Champion]
-![Java]
-![Jakarta EE]
-![Kubernetes]
-![AI]
-![Enterprise Integration]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcello_Meneghel-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/meneghel)
+
+[![Website](https://img.shields.io/badge/M2M_IT_Solutions-Visit_Website-blue?style=for-the-badge)](https://m2mit.solutions)
 
 ## Building the Future of Enterprise Modernization
 
