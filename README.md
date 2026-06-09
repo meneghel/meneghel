@@ -1,5 +1,12 @@
 # Marcello Meneghel
 
+![IBM Champion]
+![Java]
+![Jakarta EE]
+![Kubernetes]
+![AI]
+![Enterprise Integration]
+
 ## Building the Future of Enterprise Modernization
 
 Enterprise Modernization Architect • IBM Champion • Founder & CEO at M2M IT Solutions
